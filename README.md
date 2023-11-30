@@ -1,2 +1,2 @@
-# E-Commerce-Website
-A E-Commerce Website for college project
+# E-commerce-Website-for-Fashion-Retail
+Project Work
